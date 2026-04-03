@@ -1,2 +1,2 @@
 # C++ Practice Programs
-C++ programming practice to improve problem-solving skills. Includes multiple programs and concepts.
+DSA practice repository with problems solved from Programiz and GeeksforGeeks covering all topics with clean and understandable solutions.
