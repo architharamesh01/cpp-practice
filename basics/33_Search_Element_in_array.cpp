@@ -20,5 +20,5 @@ int main(){
     if(count==0){
         cout<<"no element found";
     }
-    
+    return 0;
 }
